@@ -1,5 +1,6 @@
 # Quake
 Analysis of Near Fault Non- Pulse Ground Motions using Deep Learning Techniques
+
 National University of Singapore, Singapore July 2023
 
 This repository contains a deep learning model implemented in TensorFlow and Keras to predict the likelihood of earthquakes based on geological data. The model uses a neural network architecture to learn patterns from earthquake features and make predictions.
